@@ -1,4 +1,4 @@
-# Music Reommendation System using Pytohn
+# Music Recommendation System using Python
 
 A Music Recommendation System is an application of Data Science that aims to assist users in discovering new and relevant musical content based on their preferences and listening behaviour.
 
