@@ -1,15 +1,15 @@
 # Music Recommendation System using Python
 
-A Music Recommendation System is an application of Data Science that aims to assist users in discovering new and relevant musical content based on their preferences and listening behaviour.
+A Music Recommendation System is an application of Data Science that aims to assist users in discovering new and relevant musical content based on their preferences and listening behavior.
 
 Personalized music recommendations have become an essential tool in the digital music landscape, enabling music streaming platforms like Spotify and Apple Music to offer personalized and engaging experiences to their users.
 
 ***
 ## How does a Music Recommendation System Works?
 
-- Music Recommendation System operate through intricate algorithms that analyze vast amount of data about users musical interactions, such as thier listing history, liked tracks, skipped songs, and even explicit user preferences conveyed through ratings or feedback. These data points are instruments in constructing comprehensive user profiles, delineating individual tastes and preferences.
+- Music Recommendation System operate through intricate algorithms that analyze vast amount of data about users musical interactions, such as their listing history, liked tracks, skipped songs, and even explicit user preferences conveyed through ratings or feedback. These data points are instruments in constructing comprehensive user profiles, delineating individual tastes and preferences.
 
-- In the intial phase, the system various data preprocessing techniques to cleanse and organize the information efficiently. Subsequently, the system uses recommendation algorithms, susch as collaborative filtering, content-based filtering, and hybrid approaches, to generate music recommendations.
+- In the initial phase, the system various data preprocessing techniques to cleanse and organize the information efficiently. Subsequently, the system uses recommendation algorithms, such as collaborative filtering, content-based filtering, and hybrid approaches, to generate music recommendations.
 
 - As users continually interact with the system, it accumulates additional data, refining and updating their profiles in real time. Consequently, the recommendations become increasingly precise and aligned with the user’s evolving musical preferences.
 
