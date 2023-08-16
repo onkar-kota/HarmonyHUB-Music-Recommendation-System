@@ -48,3 +48,5 @@ Fill in the app description, as shown in the image below.
 **Step 5: Copy Your Client ID and Client Secret**
 
 After filling in the app description, you will be redirected to your id and password. If you click “View client secret”, you will see your password. Copy your credentials so that you can use them while building a Music Recommendation System using Python.
+
+#### [Let's get into the code](https://github.com/onkar-kota/HarmonyHUB-Music-Recommendation-System/blob/master/Music%20Recommendation%20System%20using%20Python.ipynb)
